@@ -34,9 +34,6 @@ body {
 }
 
 @media (max-width: 767px) {
-	/*#header-div {
-		padding-top: 40px;
-	}*/
 	#header-div img {
 		width: 80%;
 	}
