@@ -1,0 +1,31 @@
+#person-container {
+	margin-top: 20px;
+	margin-bottom: 70px;
+
+}
+
+.person-block {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.profile-div {
+	text-align: center;
+	margin-top: 30px;
+}
+
+#resume {
+	/*margin-top: 10px;*/
+	width: 80%;
+	margin: 10px auto;
+}
+
+.profile-pic {
+	width: 80%;
+	/*height: 300px;*/
+	border: 1px solid gray;
+}
+
+#email {
+	margin-top: 20px;
+}
